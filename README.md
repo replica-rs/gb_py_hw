@@ -1,3 +1,6 @@
 - [X] Quarter 1
     - [X] Lesson 1 (hw)
-    - [ ] Lesson 2 (hw)
+    - [X] Lesson 2 (hw)
+    - [X] Lesson 3 (hw)
+    - [ ] Lesson 4 (hw)
+    - [ ] Lesson 5 (hw)
